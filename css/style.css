@@ -78,7 +78,6 @@ header .row .col-md-5 img {
 
 header {
   background: #ff512f;
-  /* fallback for old browsers */
   background: var(--bggradient);
 }
 
